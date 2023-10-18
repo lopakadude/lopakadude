@@ -21,4 +21,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 </div>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lopakadude) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:DmitriyYanyuk@yandex.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://www.flaticon.com/free-icon/telegram_5968804?term=telegram&page=1&position=3&origin=tag&related_id=5968804)](https://t.me/lopakadude) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:DmitriyYanyuk@yandex.ru)
