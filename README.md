@@ -22,7 +22,8 @@
 </div>
 
 
-### Мои Контакты: [![Telegram Badge](https://img.shields.io/badge/-Yanyuk_Dmitriy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lopakadude) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:DmitriyYanyuk@yandex.ru)
+### Мои Контакты: 
+[![Telegram Badge](https://img.shields.io/badge/-Yanyuk_Dmitriy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lopakadude) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:DmitriyYanyuk@yandex.ru)
 
 ### Статистика GitHub:
 
