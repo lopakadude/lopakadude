@@ -21,4 +21,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 </div>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Yanyuk_Dmitriy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lopakadude) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:DmitriyYanyuk@yandex.ru)
+
+### Мои Контакты: [![Telegram Badge](https://img.shields.io/badge/-Yanyuk_Dmitriy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lopakadude) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:DmitriyYanyuk@yandex.ru)
+
+### Статистика GitHub:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=lopakadude&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lopakadude&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lopakadude)
